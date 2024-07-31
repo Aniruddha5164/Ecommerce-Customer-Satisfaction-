@@ -52,6 +52,8 @@ Tools and Techniques
 Deep Learning: Artificial Neural Networks (ANN)
 Data Preprocessing and Visualization
 Statistical Analysis
+
+
 **Deliverables**
 
 
